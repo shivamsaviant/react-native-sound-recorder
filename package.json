@@ -16,8 +16,5 @@
   ],
   "author": "",
   "license": "",
-  "homepage": "https://github.com/kevinresol/react-native-sound-recorder#readme",
-  "peerDependencies": {
-    "react-native": "^0.76.0"
-  }
+  "homepage": "https://github.com/kevinresol/react-native-sound-recorder#readme"
 }
